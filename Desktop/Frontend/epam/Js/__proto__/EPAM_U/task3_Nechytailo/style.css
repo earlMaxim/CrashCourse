@@ -1,0 +1,21 @@
+.content{
+    display: flex;
+    padding-top: 30px;
+    padding-left: 30px;
+    font-size: 25px;
+    flex-direction: row;
+}
+.col{
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+}
+.revievs{
+    height: 32px;
+}
+.price{
+    height: 32px;
+}
+.name{
+    height: 32px;
+}
